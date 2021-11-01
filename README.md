@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Machine Learning,Natural Language Processing **
+- 🌱 I’m currently learning **Natural Language Processing **
 
 [![](https://img.shields.io/github/followers/tanersyn?style=social)](https://www.github.com/tanersyn)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanersyn&layout=compact&hide=html" alt="tanersyn" /></p>
