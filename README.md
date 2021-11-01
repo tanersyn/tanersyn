@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
 
 # Merhaba, ben Taner SAYIN 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
 
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/tanersyn)
+[![](https://img.shields.io/github/followers/tanersyn?style=social)](https://www.github.com/tanersyn)
 
 
 
