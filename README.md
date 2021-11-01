@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
+
+# Merhaba, ben Taner SAYIN 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
+
+[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/tanersyn)
+
+
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taner-sayın-a30055187/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tanersayinnn)
