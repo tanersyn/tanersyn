@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 
 # Merhaba, ben Taner SAYIN 👋
 
+🔭 I’m currently working on **Data Science**
+🌱 I’m currently learning **Machine Learning,Natural Language Processing **
+
 [![](https://img.shields.io/github/followers/tanersyn?style=social)](https://www.github.com/tanersyn)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanersyn&show_icons=true" alt="tanersyn" /></p>
 
 
 
