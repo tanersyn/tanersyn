@@ -1,35 +1,47 @@
+### Hi there 👋, I'm Taner
+
+<img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" />  
+
+- 🔭  I’m currently developing **.Net** 
+- 🌱  I’m currently learning **Machine Learning**
+- 📫  tanersayinnn@gmail.com
 
 
-<!--
-**tanersyn/tanersyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
+[<img align="left" alt="taner-sayın | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Tanersyn_)
+[<img align="left" alt="taner-sayın | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/taner-say%C4%B1n-a30055187/)
+<br />
+<br />
 
-Here are some ideas to get you started:
+---
+### You can find Languages and Tools in this Account and much more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tanersyn&show_icons=true">
+<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio/visual-studio-code" />
 
-# Merhaba, ben Taner SAYIN 👋
-
-- 🔭 I’m currently working on **Data Science**
-
-- 🌱 I’m currently learning **Natural Language Processing**
-
-[![](https://img.shields.io/github/followers/tanersyn?style=social)](https://www.github.com/tanersyn)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanersyn&layout=compact&hide=html" alt="tanersyn" /></p>
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 
 
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taner-sayın-a30055187/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tanersayinnn)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Tanersyn_)
-[![Mail Badge](https://img.shields.io/badge/tanersayinnn@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tanersayinnn@gmail.com)](mailto:tanersayinnn@gmail.com)
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+
+
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br />
+<br />
+
+---
+<p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanersyn" alt="tanersyn" /></a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanersyn&show_icons=true&locale=en&layout=compact" alt="tanersyn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanersyn&show_icons=true&locale=en" alt="tanersyn" width="50%" /></p><br />
+<br />
+	
