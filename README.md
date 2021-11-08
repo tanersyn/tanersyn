@@ -46,6 +46,6 @@
 ---
 <p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanersyn" alt="tanersyn" /></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanersyn&show_icons=true&locale=en&layout=compact" alt="tanersyn" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanersyn&show_icons=true&locale=en" alt="tanersyn" width="30%" /></p><br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanersyn&show_icons=true&locale=en" alt="tanersyn" width="50%" /></p><br />
 <br />
 	
