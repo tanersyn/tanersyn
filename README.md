@@ -10,6 +10,8 @@
 ### Connect with me:
 [<img align="left" alt="taner-sayın | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Tanersyn_)
 [<img align="left" alt="taner-sayın | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/taner-say%C4%B1n-a30055187/)
+[<img align="left" alt="taner-sayın | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://tanersayinnn.medium.com/)
+
 <br />
 <br />
 
