@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Taner
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🔭  I’m currently developing **.Net** 
 - 🌱  I’m currently learning **Machine Learning**
