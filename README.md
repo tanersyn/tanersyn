@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taner</h1>
 <h3 align="center">A Full Stack Developer from Turkey</h3>
 
-<p align="left"> <a href="https://twitter.com/nurcinozer" target="blank"><img src="https://img.shields.io/twitter/follow/nurcinozer?logo=twitter&style=for-the-badge" alt="nurcinozer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Tanersyn_" target="blank"><img src="https://img.shields.io/twitter/follow/Tanersyn_?logo=twitter&style=for-the-badge" alt="nurcinozer" /></a> </p>
 
 - 🔭 I’m currently working on C#.Net
 
