@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on C#.Net
 
-- 🌱 I’m currently learning **Javascript, React and .Net  to become a full-stack developer.**
-
-- 📝 I regularly write articles on [https://tanersayinnn.medium.com/](https://tanersayinnn.medium.com/)
-
 - 📫 How to reach me **tanersayinnn@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/taner-sayın-a30055187/](https://linkedin.com/in/taner-sayın-a30055187)
