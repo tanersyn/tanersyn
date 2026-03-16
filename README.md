@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **tanersayinnn@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/taner-sayın-a30055187/](https://linkedin.com/in/taner-sayın-a30055187)
 
 
 <h3 align="left">Connect with me:</h3>
