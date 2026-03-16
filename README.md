@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taner</h1>
 <h3 align="center">A Full Stack Developer from Turkey</h3>
 
-<p align="left"> <a href="https://twitter.com/Tanersyn_" target="blank"><img src="https://img.shields.io/twitter/follow/Tanersyn_?logo=twitter&style=for-the-badge" alt="tanersyn" /></a> </p>
+
 
 - 🔭 I’m currently working Full Stack Developer
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Tanersyn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanersyn" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/taner-sayın-a30055187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanersyn" height="30" width="40" /></a>
 
 </p>
