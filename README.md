@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/Tanersyn_" target="blank"><img src="https://img.shields.io/twitter/follow/Tanersyn_?logo=twitter&style=for-the-badge" alt="tanersyn" /></a> </p>
 
-- 🔭 I’m currently working on C#.Net
+- 🔭 I’m currently working Full Stack Developer
 
 - 📫 How to reach me **tanersayinnn@gmail.com**
 
