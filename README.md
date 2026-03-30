@@ -32,8 +32,4 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanersyn&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="tanersyn" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanersyn&show_icons=true&theme=vision-friendly-dark" alt="tanersyn" />
-</p>
+
